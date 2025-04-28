@@ -1,7 +1,7 @@
 {
   "name": "Media Loom",
   "description": "A powerful Telegram bot for hosting and managing media files with unlimited storage and no file size limits.",
-  "logo": "https://graph.org/file/304449b029eb3353da5d1-eb1a5869c4c936e524.jpg"
+  "logo": "https://graph.org/file/304449b029eb3353da5d1-eb1a5869c4c936e524.jpg",
   "repository": "https://github.com/Sumit0045/MediaLoom",
   "keywords": ["telegram", "bot", "media hosting", "file management", "unlimited storage"],
   "env": {
