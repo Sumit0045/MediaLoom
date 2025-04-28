@@ -1,0 +1,6 @@
+pyrofork
+fastapi
+uvicorn
+motor
+python-multipart
+TgCrypto 
