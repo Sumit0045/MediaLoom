@@ -12,7 +12,7 @@ buttons = InlineKeyboardMarkup([
 
 @app.on_message(filters.command("start"))
 async def start_(_, message):
-    await message.reply_photo(photo="https://graph.org/file/f47e8e58428604cfb989f-61cbdaf8f0b8399ef4.jpg",
+    await message.reply_photo(photo="https://graph.org/file/371c915b8c97ecf62a2d6-edbae9f1a9a3ff4add.jpg",
         caption=f"Hello, I'm {BOT_NAME}! I can host any type of media, including large files, with unlimited storage. "
         "Feel free to upload your files, and I'll take care of the rest!",
         reply_markup=buttons
